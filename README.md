@@ -1,2 +1,0 @@
-# baitap
-bt
